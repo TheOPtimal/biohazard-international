@@ -1,0 +1,16 @@
+@use "colors.scss";
+
+.footer {
+	background-color: colors.$dark-color;
+	color: colors.$light-color;
+	
+	text-align: center;
+
+	width: 100%;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	
+	a {
+		color: inherit;
+	}
+}
