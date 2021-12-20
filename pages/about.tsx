@@ -19,8 +19,8 @@
 import type { NextPage } from "next";
 import SectionContainer, { SectionData } from "../components/Section";
 
-import biohazard from "../public/images/biohazard.png";
-import greenFields from "../public/images/green-fields.png";
+import biohazard from "../images/biohazard.png";
+import greenFields from "../images/green-fields.png";
 
 const Sections: SectionData[] = [
   {

@@ -20,10 +20,10 @@ import type { NextPage } from "next";
 import SectionContainer, { SectionData } from "../components/Section";
 import Link from "next/link";
 
-import landfill from "../public/images/landfill.png";
-import greenFields from "../public/images/green-fields.png";
-import ecoMaterials from "../public/images/ecomaterials.jpg";
-import plasticBag from "../public/images/plastic-bag.png";
+import landfill from "../images/landfill.png";
+import greenFields from "../images/green-fields.png";
+import ecoMaterials from "../images/ecomaterials.jpg";
+import plasticBag from "../images/plastic-bag.png";
 
 const Sections: SectionData[] = [
   {
